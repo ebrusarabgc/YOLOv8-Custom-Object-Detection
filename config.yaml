@@ -1,0 +1,7 @@
+path: C:\Users\EbruSaraBagca\PycharmProjects\YOLOv8-CustomObjectDetection\dataset
+train: images/train
+val: images/validation
+
+# Classes
+names:
+  0: bus
